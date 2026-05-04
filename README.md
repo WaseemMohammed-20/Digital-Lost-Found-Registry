@@ -290,18 +290,6 @@ Filter    — Return items with score > 0.2 (20% threshold), top 5
 
 ---
 
-## 👨‍💻 Team
-
-| Name | Roll Number | Branch |
-|------|------------|--------|
-| Thondapu Vivek Chowdary | AP23110010213 | CSE |
-| Waseem Mohammed | AP23110010174 | CSE |
-| Vakula Sri | AP23110010239 | CSE |
-| Tejesh Kumar | AP23110010274 | CSE |
-
-**Faculty Guide:** Mr. Himanshu Mishra
-**Institution:** SRM University AP, Andhra Pradesh
-
 ---
 
 ## 📄 License
