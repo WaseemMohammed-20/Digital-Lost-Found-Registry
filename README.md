@@ -296,12 +296,4 @@ Filter    — Return items with score > 0.2 (20% threshold), top 5
 
 This project is built for academic purposes at SRM AP University.
 
----
 
-<div align="center">
-
-Made with ❤️ by Team Campus L&F — SRM AP University
-
-⭐ Star this repo if you found it helpful!
-
-</div>
